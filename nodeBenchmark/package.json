@@ -1,0 +1,17 @@
+{
+  "author": "Scott Weinstein",
+  "name": "nodeBenchmark",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "~0.6.11"
+  },
+  "dependencies": {
+    "underscore": "1.3.x",
+    "async": "x.x.x"
+    },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
